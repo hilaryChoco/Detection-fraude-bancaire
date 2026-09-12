@@ -1,0 +1,10 @@
+data/
+
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Environnement
+.env
+*.egg-info/
